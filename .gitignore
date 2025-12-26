@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data
+data/pdfs/*
+!data/pdfs/.gitkeep
+
+# Vector indexes
+*.faiss
+*.index
+
+# Database
+*.db
+
+# OS
+.DS_Store
