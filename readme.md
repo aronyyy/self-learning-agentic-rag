@@ -10,7 +10,7 @@ strong Phase-1 retrieval core and evolving into an **agentic, self-improving RAG
 - Metadata-aware reranking
 - Retrieval logging (SQLite)
 
-## Tech Stack
+## Tech Stacks
 - Python
 - LangChain
 - FAISS
